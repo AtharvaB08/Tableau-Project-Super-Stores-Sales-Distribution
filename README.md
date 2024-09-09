@@ -73,6 +73,9 @@ This dashboard reveals significant insights into **sales performance** across va
 
 Continued monitoring and adjustment in discounting and regional marketing strategies will likely improve the overall financial health of the business.
 
+![image](https://github.com/user-attachments/assets/ace71aff-7946-4a7d-96ff-4836ea2d775b)
+
+
 ---
 
 ### How to Access the Dashboard
